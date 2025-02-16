@@ -9,5 +9,5 @@ int main() {
 
     std::cout << "My name is Bailey! Ruff ruff, I am " << human_years << " years old in human years." << std::endl;
     
-    return 0; // Best practice to include return 0 in main()
+    return 0;
 }
